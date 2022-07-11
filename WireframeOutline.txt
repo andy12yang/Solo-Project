@@ -1,7 +1,7 @@
 [REQUIRED] Name: Andy Yang
 [REQUIRED] Project Title: My Groups My Hobbies
 [REQUIRED] Project Stack: Python
-[REQUIRED] GitHub Repo Link: 
+[REQUIRED] GitHub Repo Link: https://github.com/andy12yang/Solo-Project.git
 
 [REQUIRED] Project Description: This is a project that has the purpose of connecting people into groups or hobbies that they are interested in
 
