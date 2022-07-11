@@ -6,3 +6,5 @@
 [REQUIRED] Project Description: This is a project that has the purpose of connecting people into groups or hobbies that they are interested in
 
 [REQUIRED] New Programming Concept(s) I'm Planning to Learn: Bootstrap
+
+Solo Project Wireframe Balsamiq Link: https://balsamiq.cloud/slardh3/p4a58ju
