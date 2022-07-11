@@ -1,0 +1,8 @@
+[REQUIRED] Name: Andy Yang
+[REQUIRED] Project Title: My Groups My Hobbies
+[REQUIRED] Project Stack: Python
+[REQUIRED] GitHub Repo Link: 
+
+[REQUIRED] Project Description: This is a project that has the purpose of connecting people into groups or hobbies that they are interested in
+
+[REQUIRED] New Programming Concept(s) I'm Planning to Learn: Bootstrap
